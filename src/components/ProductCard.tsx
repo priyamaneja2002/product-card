@@ -19,7 +19,7 @@ const ProductCard = () => {
 
   const sizes = ['XS', 'S', 'M', 'L', 'XL', 'XXL'];
 
-  const sharedTransition = { type: "spring", stiffness: 300, damping: 30 };
+  const sharedTransition = { type: "spring", stiffness: 300, damping: 30 } as const;;
   const glassClasses = "bg-white/10 backdrop-blur-2xl border border-white/20 shadow-glass-outer shadow-glass-inner rounded-[2.5rem] overflow-hidden isolate";
 
   return (
