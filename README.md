@@ -2,7 +2,7 @@ Interactive Glassmorphism Product Card
 A high-performance, production-ready "Liquid Glass" product card built with Next.js, Tailwind CSS, and Framer Motion. This project demonstrates the bridge between high-end UI/UX design and optimized frontend engineering.
 
 🚀 Live Demo
-
+https://product-card-inky-five.vercel.app/product-card
 
 🛠️ Tech Stack
 Framework: Next.js 15 (App Router)
