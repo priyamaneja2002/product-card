@@ -52,6 +52,6 @@ npm run dev
 🤝 Contact & Opportunities
 I am currently looking for roles as a Design Engineer, Frontend Developer, or UI/UX Developer. If you're looking for someone who obsesses over the intersection of design and code, let's talk!
 
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: https://www.linkedin.com/in/priyamaneja/
 
-Twitter/X: [Your Twitter Profile]
+Twitter/X: https://x.com/PriyamAneja
