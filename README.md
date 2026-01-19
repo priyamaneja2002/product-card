@@ -1,3 +1,6 @@
+<img width="582" height="894" alt="image" src="https://github.com/user-attachments/assets/ebc6f95d-d702-437d-854e-5e13d1c85410" />
+
+
 Interactive Glassmorphism Product Card
 A high-performance, production-ready "Liquid Glass" product card built with Next.js, Tailwind CSS, and Framer Motion. This project demonstrates the bridge between high-end UI/UX design and optimized frontend engineering.
 
